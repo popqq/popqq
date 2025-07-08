@@ -6,4 +6,4 @@
 
 [![AHUA's GitHub stats](https://github-readme-stats.vercel.app/api?username=popqq&theme=catppuccin_latte "![AHUA's GitHub stats")](https://github.com/AHUA-Official/github-readme-stats)
 
-![Satya Wikananda's card name](https://cardivo.vercel.app/api?name=[suilk]&description=[%e8%bf%99%e6%98%af%e4%b8%80%e6%9d%a1%e6%8f%8f%e8%bf%b0]&image=https://avatars.githubusercontent.com/u/88605050?v=4&backgroundColor=%23ecf0f1&pattern=bubbles&colorPattern=%23eaeaea&opacity=0.7&disableAnimation=true)
+![Satya Wikananda's card name](https://cardivo.vercel.app/api?name=[suilk]&description=[%e8%bf%99%e6%98%af%e4%b8%80%e6%9d%a1%e6%8f%8f%e8%bf%b0]&image=https://avatars.githubusercontent.com/u/88605050?v=4&backgroundColor=%23ecf0f1&pattern=rain&colorPattern=%23eaeaea&opacity=0.7&disableAnimation=true)
